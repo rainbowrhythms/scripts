@@ -1,2 +1,2 @@
 # scripts
-A collection of personal scripts
+A collection of personal scripts.
